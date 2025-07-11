@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache do Python
+*.pyo
+*.pyd
+*.sqlite3
+
+# Arquivos de sistema
+.DS_Store
